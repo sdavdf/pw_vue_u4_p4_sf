@@ -1,7 +1,7 @@
 <template>
   <div>
     <router-link to="/">Bienvenido</router-link>
-    <router-link to="/nuevo">Nuevo Estudiante</router-link>
+    <router-link to="/nuevo">Consultar Estudiante</router-link>
     <router-link to="/guardar">Guardar Estudiante</router-link>
     <router-link to="/actualizar">Actualizar Estudiante</router-link>
     <router-link to="/eliminar">Eliminar Estudiante</router-link>
