@@ -15,7 +15,7 @@
       <input v-model="apellido" type="text" id="apellido" placeholder="Ingrese su apellido">
     </div>
 
-    <button class="submit-button" @click="guardarEstudiante">Guardar</button>
+    <button class="btn btn-lg btn-primary" @click="guardarEstudiante">Guardar</button>
   </div>
 </template>
 
